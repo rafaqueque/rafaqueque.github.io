@@ -1,0 +1,11 @@
+title: Rafael Albuquerque
+email: me@rafael.pt
+description: > # this means to ignore newlines until "baseurl:"
+    This is my personal blog. I usually don't write anything useful here.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.rafael.pt" # the base hostname & protocol for your site
+twitter_username: rafaqueque
+github_username:  rafaqueque
+
+# Build settings
+markdown: kramdown
