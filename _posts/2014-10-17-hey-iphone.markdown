@@ -10,7 +10,8 @@ tags:
 ---
 I'm not a fanboy. I was a heavy Windows user for the last 10 years. I use Linux
 every day due to my job as a developer. I only own Macs at the moment, so I'm a
-power user of OS X as well. Once a guy said: "Use the tools for the job" and that is my motto, and it works like a charm.
+power user of OS X as well. Once a guy said: "Use the tools for the job" and
+that is my motto, and it works like a charm.
 
 When it comes to smartphones, it's not that different. I had several Symbian
 "smartphones", then switched to low-end Android and now I own a quad-core, all
