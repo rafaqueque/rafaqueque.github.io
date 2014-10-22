@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Increase access security (or difficulty)"
+title: "Increase security (or difficulty) with Yubikey"
 date: "Wed Oct 22 00:25:31 +0100 2014"
 tags:
 - yubikey
