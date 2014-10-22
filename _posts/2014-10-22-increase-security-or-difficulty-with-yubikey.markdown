@@ -10,7 +10,7 @@ tags:
 - difficulty
 ---
 Yesterday, Google
-[announced](googleonlinesecurity.blogspot.pt/2014/10/strengthening-2-step-verification-with.html)
+[announced](http://googleonlinesecurity.blogspot.pt/2014/10/strengthening-2-step-verification-with.html)
 something very cool. You can now use your Yubikey to access your Gmail account.
 
 ### Shit, I have an unsupported version
