@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gmail Checker Lite 0.2.5 is out"
+title: "Gmail Checker Lite 0.2.5 is out; hotfix relased (0.2.6)"
 date: "Thu Nov 06 00:16:51 +0000 2014"
 tags:
 - google
@@ -26,5 +26,9 @@ first time. Also proud to reach the 550+ users mark.
 If you want to push new features, report bugs or just suggest something, [check
 the project page and
 repository](https://github.com/rafaqueque/gmail-checker-lite) on Github.
+
+### Update
+A new version `0.2.6` was relased and published already to fix a weird
+behaviour with the icon click for Gmail users.
 
 
