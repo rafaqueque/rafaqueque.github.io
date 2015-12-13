@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Moving on"
+date: "2015-12-13 +0000"
+tags:
+- moving
+- new job
+- sherpany
+- talkdesk
+---
+So, I'm leaving [Sherpany](http://sherpany.com).
+
+I've been one of the first engineers when they opened their IT department
+in Lisbon and I'm 100% proud of what I've done and the decisions I've been
+part of during the last 2 years and a half.
+
+The biggest decision I've ever made in my life, but I'm in the age
+of taking risks, aiming high and try some moonshots.
+
+I feel it's the right time to move on. I need new challenges and the
+problems I'm facing, more on the personal side, are standing in the way.
+Need some fresh stuff, a new job, new technology, new programming language
+or just new people in my life.
+
+Not trying to say it's bad or was bad in the past, but I need something
+different.  I've been losing my passion for programming in the last months
+and I want that back; I've been doing this for more than 10 years already and it's
+the first time I feel like shit.
+
+This year was, by far, the worst year in my life (again, more on the
+personal side), and starting something new, focused and feeling
+challenged, is the cure for this, I think – that's why I want to take this
+risk.
+
+You will now find me at [Talkdesk](https://talkdesk.com).
